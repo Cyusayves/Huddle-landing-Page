@@ -48,7 +48,7 @@ body {
     border: 1px solid #ffffff;
     font-size: 10px;
     border-radius: 20px;
-    text-align: ;
+    text-align: center;
 }
 
 .btn-large {
@@ -326,3 +326,5 @@ footer {
         width: 100%;
     }
 }
+
+
